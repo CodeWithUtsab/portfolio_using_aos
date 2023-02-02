@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio_using_aos/static/css/main.458d40c4.css",
+    "main.js": "/portfolio_using_aos/static/js/main.cb60218b.js",
+    "static/js/787.5470cbdf.chunk.js": "/portfolio_using_aos/static/js/787.5470cbdf.chunk.js",
+    "static/media/Gym.png": "/portfolio_using_aos/static/media/Gym.4c362c8b85c9a4b1f08b.png",
+    "static/media/FoodDelivery.png": "/portfolio_using_aos/static/media/FoodDelivery.6374e44e82b8220de8b1.png",
+    "static/media/home_page.png": "/portfolio_using_aos/static/media/home_page.052502b0926effe011cf.png",
+    "static/media/about_page.png": "/portfolio_using_aos/static/media/about_page.a1aac3346919251f8860.png",
+    "static/media/AlarmClock.png": "/portfolio_using_aos/static/media/AlarmClock.0bcc55bf9a3b5744d474.png",
+    "static/media/FileDownloader.png": "/portfolio_using_aos/static/media/FileDownloader.4a066fb63de1803a8031.png",
+    "index.html": "/portfolio_using_aos/index.html",
+    "main.458d40c4.css.map": "/portfolio_using_aos/static/css/main.458d40c4.css.map",
+    "main.cb60218b.js.map": "/portfolio_using_aos/static/js/main.cb60218b.js.map",
+    "787.5470cbdf.chunk.js.map": "/portfolio_using_aos/static/js/787.5470cbdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.458d40c4.css",
+    "static/js/main.cb60218b.js"
+  ]
+}
